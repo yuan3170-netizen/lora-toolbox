@@ -1,0 +1,10 @@
+Pillow
+numpy
+torch
+onnxruntime
+pandas
+imagehash
+opencv-python
+matplotlib
+tensorboard
+send2trash
